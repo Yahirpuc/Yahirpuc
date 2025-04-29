@@ -1,21 +1,7 @@
-<head>
-  <!-- Enlaza una fuente desde Google Fonts -->
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-  
-  <style>
-    body {
-      font-family: 'Roboto', sans-serif;
-    }
-    h1, h3 {
-      text-align: center;
-    }
-  </style>
-</head>
+# 👋 ¡Hola! Soy Yahir Ordoñez
+### 🚀 Desarrollador de Software Apasionado por la Tecnología
 
-<body>
-  <h1>👋 ¡Hola! Soy Yahir Ordoñez</h1>
-  <h3>🚀 Desarrollador de Software Apasionado por la Tecnología</h3>
-</body>
+
 
 
 <!-- 🚧 Coloca tu portafolio aquí -->
