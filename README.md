@@ -1,14 +1,32 @@
-<h1 align="center">Hola 👋, Soy Yahir Ordoñez</h1>
-<h3 align="center">Desarrollador de Software 🌟</h3>
+<head>
+  <!-- Enlaza una fuente desde Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  
+  <style>
+    body {
+      font-family: 'Roboto', sans-serif;
+    }
+    h1, h3 {
+      text-align: center;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>👋 ¡Hola! Soy Yahir Ordoñez</h1>
+  <h3>🚀 Desarrollador de Software Apasionado por la Tecnología</h3>
+</body>
+
 
 <!-- 🚧 Coloca tu portafolio aquí -->
-<h4 align="center">Visita mi sitio web: [Tu portafolio aquí]</h4>
+<h4 align="center">Visita mi sitio web: En proceso..</h4>
 
 <br>
 
 <p align="center">
-  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="animation" width="300"/>
+  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="animation" width="400"/>
 </p>
+
 
 ---
 
