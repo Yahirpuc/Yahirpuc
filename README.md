@@ -68,6 +68,7 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
@@ -78,6 +79,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-181717?style=for-the-badge&logo=figma&logoColor=white" />
+   <img src="https://img.shields.io/badge/Notion-FDFDFD?style=for-the-badge&logo=notion&logoColor=black">
+  
 </p>
 
 <br>
@@ -85,8 +88,8 @@
 ## 📊 GitHub Stats
 <table>
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&theme=radical&card_width=450em" /></td>
-    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yahirpuc&theme=radical&card_width=450em" /></td>
+    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yahirpuc&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></td>
   </tr>
 </table>
 
