@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="animation" width="400"/>
+  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="animation" width="300"/>
 </p>
 
 
