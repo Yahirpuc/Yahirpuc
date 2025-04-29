@@ -1,7 +1,5 @@
-# 👋 ¡Hola! Soy Yahir Ordoñez
-### 🚀 Desarrollador de Software Apasionado por la Tecnología
-
-
+<h1 align="center">Hola 👋, Soy Yahir Ordoñez</h1>
+<h3 align="center">Desarrollador de Software Multiplataforma 🌟</h3>
 
 
 <!-- 🚧 Coloca tu portafolio aquí -->
