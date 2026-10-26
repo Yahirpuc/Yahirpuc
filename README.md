@@ -2,18 +2,17 @@
 
 <h3 align="center">💻 Desarrollador de Software Multiplataforma</h3>
 
- <p align="center">
+<p align="center">
   <a href="https://portafolio-personal-tawny-three.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/PORTAFOLIO-VISITAR_SITIO-181717?style=for-the-badge&logo=vercel&logoColor=white&labelColor=181717" alt="Visitar portafolio"/>
+    <img src="https://img.shields.io/badge/PORTAFOLIO-VISITAR_SITIO-181717?style=for-the-badge&logo=linktree&logoColor=white&labelColor=181717" alt="Visitar mi portafolio"/>
   </a>
   <a href="https://www.linkedin.com/in/yahir-ordo%C3%B1ez-97aa76302/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECTAR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="Conectar en LinkedIn"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-CONECTAR-0A66C2?style=for-the-badge&logo=data:image%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzcwLTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1ek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyaDIwLjQ1MWMuOTc4IDAgMS43NzgtLjc3MyAxLjc3OC0xLjcyOVYxLjcyOUMyNCAuNzc0IDIzLjIwMyAwIDIyLjIyNSAwWiIvPjwvc3ZnPg%3D%3D&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
   </a>
   <a href="mailto:yahirordzdev@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-CONTACTAR-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Contactar por correo"/>
   </a>
 </p>
-
 <p align="center">
   <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Animación de desarrollo" width="300"/>
 </p>
