@@ -2,15 +2,15 @@
 
 <h3 align="center">💻 Desarrollador de Software Multiplataforma</h3>
 
-<p align="center">
+ <p align="center">
   <a href="https://portafolio-personal-tawny-three.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-Visitar%20sitio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visitar mi portafolio"/>
+    <img src="https://img.shields.io/badge/PORTAFOLIO-VISITAR_SITIO-181717?style=for-the-badge&logo=vercel&logoColor=white&labelColor=181717" alt="Visitar portafolio"/>
   </a>
   <a href="https://www.linkedin.com/in/yahir-ordo%C3%B1ez-97aa76302/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECTAR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="Conectar en LinkedIn"/>
   </a>
   <a href="mailto:yahirordzdev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contactar-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo electrónico"/>
+    <img src="https://img.shields.io/badge/EMAIL-CONTACTAR-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Contactar por correo"/>
   </a>
 </p>
 
@@ -29,13 +29,7 @@
 
 ---
 
-## 🌐 Redes sociales
 
-<p>
-  <a href="https://www.linkedin.com/in/yahir-ordo%C3%B1ez-97aa76302/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
 
 <!-- Facebook -->
 <!-- <a href="https://tu-link-de-facebook" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a> -->
@@ -105,4 +99,15 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yahirpuc&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más utilizados en GitHub"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yahirpuc&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" alt="Estadísticas de GitHub"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Gracias%20por%20visitar%20mi%20perfil-181717?style=for-the-badge&logo=github&logoColor=white" alt="Gracias por visitar mi perfil"/>
+</p>
